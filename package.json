@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "demo-component-library",
+  "name": "@colebemis/demo-component-library",
   "author": "Cole Bemis",
   "module": "dist/demo-component-library.esm.js",
   "size-limit": [
