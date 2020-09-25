@@ -10,5 +10,5 @@ export const Button = () => {
 };
 
 export const Link = () => {
-  return <a href="#">Click me</a>;
+  return <a href="https://github.com">Click me</a>;
 };
