@@ -8,3 +8,7 @@ export const Thing = () => {
 export const Button = () => {
   return <button>Click me</button>;
 };
+
+export const Link = () => {
+  return <a href="#">Click me</a>;
+};
