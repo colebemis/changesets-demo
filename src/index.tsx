@@ -6,7 +6,7 @@ export const Thing = () => {
 };
 
 export const Button = () => {
-  return <button>Click me</button>;
+  return <button>hello world</button>;
 };
 
 export const Link = () => {
